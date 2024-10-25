@@ -30,8 +30,10 @@ To set up and run this project locally, follow these steps:
     ```sh
     npm install
     ```
+3. **Add your Gemini API key**:
+    Open the file `src/component/SearchBar.js` and replace `"YOUR_API_KEY"` in line 16 with your actual Gemini API key.
 
-3. **Run the development server**:
+4. **Run the development server**:
     ```sh
     npm start
     ```
